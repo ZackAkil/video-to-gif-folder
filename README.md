@@ -2,6 +2,8 @@
 
 ![Language](https://img.shields.io/badge/language-Shell%20Script-blue.svg) ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg) ![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini-blue.svg)
 
+![Demo GIF](./video_to_gif_folder.gif)
+
 This project provides a script (`convert_video_to_gif.sh`) designed to be used with macOS's Automator to automatically convert video files into animated GIFs when they are added to a specific folder.
 
 ## How It Works
