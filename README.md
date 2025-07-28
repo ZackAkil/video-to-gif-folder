@@ -1,4 +1,4 @@
-# Video to GIF Automator Script
+# Video to GIF Folder
 
 ![Language](https://img.shields.io/badge/language-Shell%20Script-blue.svg) ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg) ![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini-blue.svg)
 
